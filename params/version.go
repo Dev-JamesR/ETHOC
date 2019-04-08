@@ -25,7 +25,7 @@ const (
 	VersionMinor = 1          // Minor version component of the current release
 	VersionPatch = 7          // Patch version component of the current release
 	VersionPatchMinor = 1          // Patch version component of the current releas
-	VersionMeta  = "Ether1-Security-Update" // Version metadata to append to the version string
+	VersionMeta  = "Ether-1 Classic" // Version metadata to append to the version string
 )
 
 // Version holds the textual version string.
