@@ -18,6 +18,7 @@ package params
 
 // Ether-1 Bootnodes
 var MainnetBootnodes = []string{
+	"enode://bc220d61f45e3e284a2400a28b3a504c94c764b842c6ba7068ae68946a346d049831c8d4d0fc0d6c242e83c3b353f95c76709fb76411e2ed7bcfaf4f2e461c67@167.86.95.197:30560",
   }
 
 // TestnetBootnodes are the enode URLs of the P2P bootstrap nodes running on the
